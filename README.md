@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💭Ask me about HTML,CSS or any design-related stuff
 ⚡+Fun fact: 	I sleep, code and listen music 8 hours each
 😁Pronouns: He/His
-📧How to reach me: Twitter-@Ayushmangarg4 Instagram: @ayushman._garg
+📧How to reach me: Twitter-@Ayushmangarg4 Linkedin: ayushmangarg
 
 
 ## 🌐Socials
