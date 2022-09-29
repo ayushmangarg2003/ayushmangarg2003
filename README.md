@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫About Me :
-🔭I'm currently working on Web dev Projects
-🌱I'm currently learning more about Backend Development
-💭Ask me about HTML,CSS or any design-related stuff
-⚡+Fun fact: 	I sleep, code and listen music 8 hours each
+🔭I'm currently working on Projects with JavaScripts
+🌱I'm currently learning more about ReactJs
+🤔If you are a Backend Developer Then we can collaborate for Hackatons
+💭Ask me about HTML,CSS ,Python or Design Related Stuff
+⚡+Fun fact: I sleep, code and listen music 8 hours each
 😁Pronouns: He/His
 📧How to reach me: Twitter-@Ayushmangarg4 Linkedin: ayushmangarg
 
