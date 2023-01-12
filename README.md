@@ -32,6 +32,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmangarg2003&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
