@@ -25,9 +25,9 @@
 
 
 ## GitHub Stats 📊 :
-![](https://github-readme-stats.vercel.app/api?username=ayushmangarg2003&theme=hacker&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&theme=hacker&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmangarg2003&theme=hacker&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmangarg2003&theme=merko&hide_border=true)
 
   
 ## Random Dev Quote ✍️
