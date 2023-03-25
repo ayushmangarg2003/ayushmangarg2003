@@ -2,9 +2,9 @@
 I am Ayushman Garg, a MERN Stack Web Developer.
 
 #  About Me 💫:
-🔭I'm currently working on Projects with ReactJs   
-🌱I'm currently learning more about Backend         
-💭Ask me about HTML,CSS,JavaScript,React and Python   
+🔭I'm currently working on Full Stack Projects
+🌱I'm currently learning more about Backend Developent and SQL Database         
+💭Ask me about Web Development and Python   
 ⚡+Fun fact: I sleep, code and listen music 8 hours each   
 
 
