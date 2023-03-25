@@ -1,4 +1,5 @@
 ## Hey there 👋
+I am Ayushman Garg, a MERN Stack Web Developer.
 
 #  About Me 💫:
 🔭I'm currently working on Projects with ReactJs   
