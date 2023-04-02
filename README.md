@@ -1,7 +1,7 @@
-## Hey there 👋
+# Hey there 👋
 I am Ayushman Garg, a MERN Stack Web Developer.
 
-#  About Me 💫:
+##  About Me 💫:
 🔭I'm currently working on Full Stack Projects   
 🌱I'm currently learning more about Backend Developent and SQL Database         
 💭Ask me about Web Development and Python   
