@@ -1,10 +1,9 @@
 # Hey there 👋
-I am Ayushman Garg, a MERN Stack Web Developer.
+I am a MERN Stack Web Developer.
 
 ##  About Me 💫:
-🔭I'm currently working on Full Stack Projects   
-🌱I'm currently learning more about Backend Developent and SQL Database         
-💭Ask me about Web Development and Python   
+🌱I'm currently working on Full Stack Projects
+🔭I'm currently learning more about Backend Developent and SQL Database 
 ⚡+Fun fact: I sleep, code and listen music 8 hours each   
 
 
@@ -29,7 +28,6 @@ I am Ayushman Garg, a MERN Stack Web Developer.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 
 
