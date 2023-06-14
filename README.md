@@ -2,9 +2,9 @@
 I am a MERN Stack Web Developer.
 
 ##  About Me 💫:
-🌱I'm currently working on Full Stack Projects        
-🔭I'm currently learning more about Backend Developent and SQL Database            
-⚡+Fun fact: I sleep, code and listen music 8 hours each        
+🌱I'm currently working on Full Stack Projects.             
+🔭I'm currently learning more about Backend Developent and SQL Database.            
+⚡+Fun fact: I sleep, code and listen music 8 hours each.        
 
 
 ## Socials 🌐
