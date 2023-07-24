@@ -32,7 +32,7 @@ I am a MERN Stack Web Developer.
 
 
 ## GitHub Stats 📊 :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmangarg2003&theme=merko&hide_border=true)
 
   
