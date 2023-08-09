@@ -1,8 +1,9 @@
 # Hey there 👋
-I am a MERN Stack Web Developer.
+Hi, My name is Ayushman Garg and I am a MERN stack Web developer.
 
 ##  About Me 💫:
-🌱I'm currently exploring React Native  
+🌱 I was first introduced to programming through Python, and later on I started exploring Web Development.    
+💻 I'm currently exploring React Native  
 ⚡+Fun fact: I sleep, code and listen music 8 hours each        
 
 
