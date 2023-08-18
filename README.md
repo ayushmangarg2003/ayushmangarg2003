@@ -9,7 +9,7 @@ Hi, My name is Ayushman Garg and I am a MERN stack Web developer.
 
 ## Socials 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ayushmangarg4)
-[![Linktree](https://img.shields.io/badge/Linktree-%2300FF11.svg?logo=linktree&logoColor=white)](https://linktr.ee/ayushmangarg8)
+[![Linktree](https://img.shields.io/badge/Linktree-%00FF00.svg?logo=linktree&logoColor=white)](https://linktr.ee/ayushmangarg8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayushmangarg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushman._garg)
 
