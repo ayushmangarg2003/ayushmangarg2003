@@ -1,11 +1,11 @@
-# Hey there 👋
-Hi, My name is Ayushman Garg and I am a MERN stack Web developer and a React Native Developer
+# Hey there! 👋
 
-##  About Me 💫:
-🌱 I was first introduced to programming through Python, and later on I started exploring Web Development.    
-💻 I'm currently exploring Machine Learning
-⚡+Fun fact: I sleep, code and listen music 8 hours each        
+Hi, I'm Ayushman Garg, a passionate MERN stack Web developer and React Native Developer.
 
+## About Me 💫:
+- 🌱 I started my programming journey with Python and later explored Web Development.
+- 💻 Currently delving into Machine Learning.
+- ⚡ Fun fact: I spend 8 hours each sleeping, coding, and listening to music.
 
 ## Socials 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ayushmangarg4)
@@ -28,7 +28,6 @@ Hi, My name is Ayushman Garg and I am a MERN stack Web developer and a React Nat
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-
 
 
 ## GitHub Stats 📊 :
