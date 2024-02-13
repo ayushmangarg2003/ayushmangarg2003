@@ -1,6 +1,5 @@
 # Hey there! 👋
-
-Hi, I'm Ayushman Garg, a passionate MERN stack Web developer and React Native Developer.
+Hi, I'm Ayushman Garg a passionate Full Stack Developer and Machine Learning Enthusiast 
 
 ## About Me 💫:
 - 🌱 I started my programming journey with Python and later explored Web Development.
@@ -27,7 +26,7 @@ Hi, I'm Ayushman Garg, a passionate MERN stack Web developer and React Native De
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
 ## GitHub Stats 📊 :
