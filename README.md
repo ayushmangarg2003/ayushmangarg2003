@@ -30,7 +30,7 @@ Hi, I'm Ayushman Garg a passionate Full Stack Developer and Machine Learning Ent
 
 
 ## GitHub Stats 📊 :
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmangarg2003&hide_progress=false&layout=compact&theme=merko&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmangarg2003&theme=merko&hide_border=true)
 
   
