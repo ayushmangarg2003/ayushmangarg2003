@@ -1,16 +1,16 @@
 # Hey there! 👋
-Hi, I'm Ayushman Garg a passionate Full Stack Developer and Machine Learning Enthusiast 
+Hi, I'm Ayushman Garg a Full Stack Developer. 
 
 ## About Me 💫:
-- 🌱 I started my programming journey with Python and later explored Web Development.
-- 💻 Currently delving into Machine Learning.
+- 🌱 I started my programming journey with Python and later explored Web Development and React Native.
+- 💻 Currently I am delving into Machine Learning and Generative AI in Particular.
 - ⚡ Fun fact: I spend 8 hours each sleeping, coding, and listening to music.
 
 ## Socials 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ayushmangarg4)
 [![Linktree](https://img.shields.io/badge/Linktree-%2300FF00.svg?logo=linktree&logoColor=white)](https://linktr.ee/ayushmangarg8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayushmangarg)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushman._garg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/storyofayushman)
 
 
 ## Tech Stack 💻
