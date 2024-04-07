@@ -1,4 +1,4 @@
-# Hey there! 👋
+## Hey there! 👋
 My name is Ayushman Garg and I am a Programmer. 
 
 ## About Me 💫:
@@ -6,14 +6,14 @@ My name is Ayushman Garg and I am a Programmer.
 - 💻 Currently I am delving into Machine Learning and Generative AI in Particular.
 - ⚡ Fun fact: I spend 8 hours each sleeping, coding, and listening to music.
 
-## Socials 🌐
+## Ping me here 🌐
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ayushmangarg4)
 [![Linktree](https://img.shields.io/badge/Linktree-%2300FF00.svg?logo=linktree&logoColor=white)](https://linktr.ee/ayushmangarg8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ayushmangarg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/storyofayushman)
 
 
-## Tech Stack 💻
+## Tech Stacks I Have Like 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
