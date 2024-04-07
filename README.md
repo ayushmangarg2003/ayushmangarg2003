@@ -1,5 +1,5 @@
 # Hey there! 👋
-Hi, I'm Ayushman Garg a Full Stack Developer. 
+My name is Ayushman Garg and I am a Programmer. 
 
 ## About Me 💫:
 - 🌱 I started my programming journey with Python and later explored Web Development and React Native.
