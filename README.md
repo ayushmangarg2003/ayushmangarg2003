@@ -1,5 +1,5 @@
 ## Hey there! 👋
-My name is Ayushman Garg and I am a Programmer. 
+My name is Ayushman Garg and I am a Developer. 
 
 ## About Me 💫:
 - 🌱 I started my programming journey with Python and later explored Web Development and React Native.
