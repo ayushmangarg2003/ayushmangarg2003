@@ -1,7 +1,8 @@
 ## Hey there! 👋
-- 🌱 I started my programming journey with Python and later explored Web Development and React Native.
+My name is Ayushman Garg and I am a Software Developer
 
 ## About Me 💫:
+- 🌱 I started my programming journey with Python and later explored Web Development and React Native.     
 - 💻 Currently I am delving into Machine Learning and Generative AI in Particular.
 - ⚡ Fun fact: I spend 8 hours each sleeping, coding, and listening to music.
 
