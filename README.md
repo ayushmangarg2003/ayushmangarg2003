@@ -1,5 +1,5 @@
 ## Hey there! 👋
-My name is Ayushman Garg and I am a Software Developer
+My name is Ayushman Garg, I am passionate about MERN stack web development, React Native, and exploring generative AI for crafting intuitive user experiences. I am committed to continuous learning and contributing positively to software development projects, seeking full time opportunities to grow in the field.
 
 ## About Me 💫:
 - 🌱 I started my programming journey with Python and later explored Web Development and React Native.     
