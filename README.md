@@ -1,5 +1,5 @@
 ## Hey there! 👋
-My name is Ayushman Garg, I am passionate about MERN stack web development, React Native, and exploring generative AI for crafting intuitive user experiences. I am committed to continuous learning and contributing positively to software development projects, seeking full time opportunities to grow in the field.
+I’m a passionate Full Stack Developer with a solid foundation in the MERN stack, React Native, and a growing interest in Generative AI. My programming journey began with Python back in school, which eventually sparked my enthusiasm for web development and machine learning during college. Over time, I’ve sharpened my skills in technologies like HTML, CSS, JavaScript, ReactJS, MongoDB, ExpressJS, NodeJS, MySQL, Next.js, and more, allowing me to build scalable and user-friendly applications. I’ve had the privilege of working on impactful projects during my internships at Matrixly AI and HDD Ventures, where I focused on building and optimizing web applications.
 
 ## About Me 💫:
 - 🌱 I started my programming journey with Python and later explored Web Development and React Native.     
