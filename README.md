@@ -5,6 +5,7 @@ I’m a passionate Full Stack Developer and **Freelancer** with a solid foundati
 - 🌱 I started my programming journey with Python and later explored Web Development and React Native.     
 - 💻 Currently, I am delving into Machine Learning and Generative AI in particular.
 - ⚡ Fun fact: I spend 8 hours each sleeping, coding, and listening to music.
+- 🏗️ I also work as a **Freelancer**, building tailored solutions for clients.
 
 ## Socials 🌐
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Ayushmangarg4)
@@ -48,4 +49,3 @@ I’m a passionate Full Stack Developer and **Freelancer** with a solid foundati
 
 ## Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
